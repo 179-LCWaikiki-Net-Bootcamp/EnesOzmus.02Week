@@ -1,7 +1,7 @@
 ## LC Waikiki .Net Bootcamp [2.7]
 `LC Waikiki .Net Bootcamp'in` ikinci haftasında geliştirilen `örnek WebAPI projesi`
 
-#### Ödevin isterleri arasındaki bütün şartlar sağlanmıştır.
+#### Ödevin bütün gerekleri yerine getirilmiştir.
 
 > * Entity Framework kullanımı,
 > * Temel CRUD işlemleri,
